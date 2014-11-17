@@ -18,3 +18,5 @@ You should probably hack at the code a bit if these assumptions are not suitable
 
 # Next Steps
 Testing would probably be good.
+
+Minification of png (resolution downsampling) is currently manual.  Manual things are bad.
