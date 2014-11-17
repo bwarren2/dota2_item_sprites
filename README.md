@@ -15,3 +15,6 @@ Further, there are some hidden assumptions:
 2. You want all the images in the input directory included
 
 You should probably hack at the code a bit if these assumptions are not suitable for you.
+
+# Next Steps
+Testing would probably be good.
