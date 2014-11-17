@@ -72,7 +72,7 @@ def write_sheets():
     logger.info("Png saved.")
 
     cssFormat = '''i{css_class} {{
-        background-image:url(/static/icons/master.{suffix});
+        background-image:url(../images/spritesheet.{suffix});
         background-position: 0px {image_position};
     }}
     '''
