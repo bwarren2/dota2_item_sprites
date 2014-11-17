@@ -71,7 +71,7 @@ def write_sheets():
     spritesheet.save(output_dir+'spritesheet.png')
     logger.info("Png saved.")
 
-    cssFormat = '''i.{css_class} {{
+    cssFormat = '''i{css_class} {{
         background-image:url(/static/icons/master.{suffix});
         background-position: 0px {image_position};
     }}
